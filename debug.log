@@ -1,0 +1,14 @@
+29/11/2019 14:35:54 devpinoyLogger Launching the browser
+29/11/2019 14:35:55 devpinoyLogger Launching the browser : BrowserName
+29/11/2019 14:36:01 devpinoyLogger Chrome browser is launched . . . .
+29/11/2019 14:36:01 devpinoyLogger Navigating to URL : https://login.bws.birst.com/Login.aspx?ReturnUrl=%2f
+29/11/2019 14:36:11 devpinoyLogger Could not navigate to : https://login.bws.birst.com/Login.aspx?ReturnUrl=%2f Reason : chrome not reachable
+  (Session info: chrome=78.0.3904.108)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SUPRIYADE-W8', ip: '172.27.111.87', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_31'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\SUPRIY~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 78.0.3904.108, webStorageEnabled: true}
+Session ID: 3ccb8e54afcd26e13cae1b232909b7bc
+29/11/2019 14:36:11 devpinoyLogger Entering text : ayyaz.sayyad@crossmark.com
